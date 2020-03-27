@@ -19,3 +19,10 @@ ssh-keygen -t rsa -C "MyEmail@Addr.ess"
 ssh -T git@gitServer
 # e.g. ssh -T git@github.com
 ```
+
+### Git revert uncommitted changes
+```
+git reset
+git checkout .
+git clean -fdx
+```
