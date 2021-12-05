@@ -52,3 +52,4 @@ Ref:
 [blog-post-2](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6), 
 [systemd-unit](https://www.freedesktop.org/software/systemd/man/systemd.unit.html), 
 [systemd-service](https://www.freedesktop.org/software/systemd/man/systemd.service.html)
+[config-details](https://linuxconfig.org/how-to-create-systemd-service-unit-in-linux)
